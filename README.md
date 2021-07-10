@@ -48,7 +48,7 @@
 
 <br/>
 <br/>
-<img alt="Seongjun Jang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=junnei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="Seongjun Jang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=junnei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" /></a>
 
 <br/>
 <br/>
@@ -67,6 +67,5 @@
 
 ## ❤ Views and Followers
 
-<img src="https://komarev.com/ghpvc/?username=junnei">
-from 2021.07.10.
+<img src="https://komarev.com/ghpvc/?username=junnei">from 2021.07.10.
 <a href="https://github.com/junnei?tab=followers"><img src="https://img.shields.io/github/followers/junnei?label=Followers&style=social" alt="GitHub Badge"></a>
