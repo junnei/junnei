@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Seongjun Jang</b></h1>
+<h1 align="center">Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Seongjun Jang</b></h1>
 <h3 align="center">I'm a passionate Student (also Developer) from Korea.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently finding a job **(In fact, I'm a student :))**
+- 🔭 I’m currently finding a job **(In fact, now I'm a student :))**
 
 - 🌱 I’m currently learning **Music Information Retrieval**
 
