@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Website](https://junnei.github.com)**
+- 👨‍💻 All of my projects are available at **[My Website](https://junnei.github.io)**
 
 - 📫 How to reach me **peinguin77@gmail.com**
 
