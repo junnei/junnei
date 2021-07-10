@@ -46,14 +46,6 @@
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-    <br/>
-    <br/>
-
-    <img alt="Seongjun Jang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=junnei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
-    <br/>
-    <br/>
     </p>
     
 ## Connect with me:
