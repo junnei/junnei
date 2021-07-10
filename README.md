@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently finding a job **(In fact, now I'm a student :))**
 
-- 🌱 I’m currently learning **Music Information Retrieval**
+- 🌱 I’m currently learning **Machine Learning(ML) & Music Information Retrieval(MIR)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
