@@ -19,7 +19,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p style="font-size:15px; color:grey;" align="left">
+<p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://pytorch.org/" target="_blank"> <img width="48" src="https://pytorch.org/favicon.ico"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
