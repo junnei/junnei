@@ -68,5 +68,5 @@
 
 ## ❤ Views and Followers
 
-<img src="https://komarev.com/ghpvc/?username=junnei">from 2021.07.10.
+<img src="https://komarev.com/ghpvc/?username=junnei"> from 2021.07.10.<br/>
 <a href="https://github.com/junnei?tab=followers"><img src="https://img.shields.io/github/followers/junnei?label=Followers&style=social" alt="GitHub Badge"></a>
