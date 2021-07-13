@@ -3,28 +3,27 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Seongjun Jang !</b></h1>
 <h3 align="center">I'm a passionate Student (also Developer) from Korea.</h3>
 
-## :orange_book: Reasearch Interest :
+## :orange_book: Research Interest :
 
-> 🔸 **Machine Learning(ML)** - Future prediction, self-supervised learning
+▫️ **Machine Learning(ML)** - Future prediction, Self-supervised learning
 
-> 🔸 **Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)** : Source seperation, Tempo Estimation, Lyric generation
+▫️ **Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)** - Source seperation, Tempo Estimation, Lyric generation
 
-> 🔸 Computer Vision - Dynamic vision sensor(Event-based vision), Object Detection, Segmentation
-
+▫️ ~~Computer Vision - Dynamic vision sensor(Event-based vision), Object Detection, Segmentation~~
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently finding a job **(In fact, now I'm a student :))**
-
-- 🌱 I’m currently learning **Machine Learning(ML) & Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Website](https://junnei.github.io)**
-
-- 📫 How to reach me : **peinguin77@gmail.com**
-
-- ⚡ Fun fact : **I love playing games and music.**
+> 🔭 I’m currently finding a job **(In fact, now I'm a student :))**
+>
+> 🌱 I’m currently learning **Machine Learning(ML) & Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)**
+>
+> 👯 I’m looking to collaborate on **OpenSource Projects**
+>
+> 👨‍💻 All of my projects are available at **[My Website](https://junnei.github.io)**
+>
+> 📫 How to reach me : **peinguin77@gmail.com**
+>
+> ⚡ Fun fact : **I love playing games and music.**
 
 ## 🚀 Languages and Tools:
 
