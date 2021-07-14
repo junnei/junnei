@@ -60,6 +60,11 @@
 
 <br/>
 <br/>
+
+
+![Seongjun Jang Contribution Graph](https://activity-graph.herokuapp.com/graph?username=junnei&theme=react-dark&hide_border=true&custom_title=Seongjun%20Jang%27s%20Activity%20Graph)
+    
+    
 <img alt="Seongjun Jang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=junnei&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br/>
