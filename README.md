@@ -13,15 +13,15 @@
 
 ## 🙋‍♂️ About Me
 
-> 🔭 I’m currently finding a job **(In fact, now I'm a student :))**
->
 > :orange_book: Major in **Industrial Management and Systems Engineering / Software Convergence**
 >
-> 🌱 I’m currently learning **Machine Learning(ML) & Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)**
+> 🔭 Currently finding a job. **In fact, now I'm a student :)**
 >
-> 👯 I’m looking to collaborate on **OpenSource Projects**
+> 🌱 Currently learning **Machine Learning(ML) & Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)**
 >
-> 👨‍💻 All of my projects are available at **[My Website](https://junnei.github.io)**
+> 👯 Looking to collaborate on **OpenSource Projects**
+>
+> 👨‍💻 All of my projects are available at **[My Website](https://junnei.github.io)**, and Here is my **[CV]()**
 >
 > 📫 How to reach me : **peinguin77@gmail.com**
 >
