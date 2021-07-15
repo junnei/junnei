@@ -15,6 +15,8 @@
 
 > 🔭 I’m currently finding a job **(In fact, now I'm a student :))**
 >
+> :orange_book: Major in **Industrial Management and Systems Engineering / Software Convergence**
+>
 > 🌱 I’m currently learning **Machine Learning(ML) & Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)**
 >
 > 👯 I’m looking to collaborate on **OpenSource Projects**
