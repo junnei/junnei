@@ -7,7 +7,7 @@
 
 ▫️ **Machine Learning(ML)** - Future prediction, Self-supervised learning
 
-▫️ **Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)** - Source seperation, Tempo Estimation, Lyric generation
+▫️ **Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)** - Source seperation, Tempo estimation, Lyric generation
 
 ▫️ ~~Computer Vision - Dynamic vision sensor(Event-based vision), Object Detection, Segmentation~~
 
