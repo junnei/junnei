@@ -23,10 +23,6 @@
 
 > 📙 Major in **Industrial Management and Systems Engineering / Software Convergence**
 >
-> 🌱 Currently learning **Machine Learning(ML) & Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)**
->
-> 👯 Looking to collaborate on **OpenSource Projects**
->
 > 👨‍💻 More information about me >> **[My Website](https://junnei.github.io)**, and Here is my **[CV](https://github.com/junnei/Seongjun_Jang_CV/blob/main/Seongjun_Jang_CV.pdf)**
 >
 > 📫 How to reach me : **peinguin77@gmail.com**
