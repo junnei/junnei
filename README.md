@@ -13,11 +13,11 @@
 
 ## 🤷‍♂️ What I did
 
-▫️ Website - **[Page](https://junnei.github.io)**
+▫️ **Website - [Page](https://junnei.github.io)**
 
-▫️ Archive Blog - **[Page](https://junnei.github.io/blog/kr)**
+▫️ **Archive Blog - [Page](https://junnei.github.io/blog/kr)**
 
-▫️ Mathematics for Machine Learning Study - **[[Page]](https://junnei.github.io/mml/kr) / [[Book]](https://mml-book.com/)**
+▫️ **Mathematics for Machine Learning Study - [Page](https://junnei.github.io/mml/kr) / [Book](https://mml-book.com/)**
 
 ## 🙋‍♂️ About Me
 
