@@ -13,7 +13,7 @@
 
 ## 🤷‍♂️ What I did
 
-> [Mathematics for Machine Learning Study](https://junnei.github.io/mml/kr)
+▫️ Mathematics for Machine Learning Study - [[Study Page]](https://junnei.github.io/mml/kr), [[About Book]](https://mml-book.com/)
 
 ## 🙋‍♂️ About Me
 
