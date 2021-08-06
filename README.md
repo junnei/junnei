@@ -5,19 +5,19 @@
 
 ## :orange_book: Research Interest :
 
-▪️ **Machine Learning(ML)** - Future prediction, Self-supervised learning
+▫️ **Machine Learning(ML)** - Future prediction, Self-supervised learning
 
-▪️ **Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)** - Source seperation, Tempo estimation, Lyric generation
+▫️ **Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)** - Source seperation, Tempo estimation, Lyric generation
 
-▪️ ~~Computer Vision - Dynamic vision sensor(Event-based vision), Object Detection, Segmentation~~
+▫️ ~~Computer Vision - Dynamic vision sensor(Event-based vision), Object Detection, Segmentation~~
 
 ## 🤷‍♂️ What I did
 
-▫️ **Website - [Page](https://junnei.github.io)**
+▪️ **Website - [Page](https://junnei.github.io)**
 
-▫️ **Archive Blog - [Page](https://junnei.github.io/blog/kr)**
+▪️ **Archive Blog - [Page](https://junnei.github.io/blog/kr)**
 
-▫️ **Mathematics for Machine Learning Study - [Page](https://junnei.github.io/mml/kr) / [Book](https://mml-book.com/)**
+▪️ **Mathematics for Machine Learning Study - [Page](https://junnei.github.io/mml/kr) / [Book](https://mml-book.com/)**
 
 ## 🙋‍♂️ About Me
 
