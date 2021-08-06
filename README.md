@@ -58,14 +58,13 @@
 <p align="center">
 <br/>
 <img alt="Seongjun Jang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=junnei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+
 <img alt="Seongjun Jang's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnei&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<br/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
-<br/>
-
-<img alt="Seongjun Jang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=junnei&theme=react-dark&hide_border=true&custom_title=Seongjun%20Jang%27s%20Activity%20Graph" />
+<!--<img alt="Seongjun Jang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=junnei&theme=react-dark&hide_border=true&custom_title=Seongjun%20Jang%27s%20Activity%20Graph" />-->
 
 <br/>
 <br/>
