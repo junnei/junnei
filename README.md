@@ -11,21 +11,23 @@
 
 ▫️ ~~Computer Vision - Dynamic vision sensor(Event-based vision), Object Detection, Segmentation~~
 
+## 🤷‍♂️ What I did
+
+> [Mathematics for Machine Learning Study](https://junnei.github.io/mml/kr)
+
 ## 🙋‍♂️ About Me
 
-> :orange_book: Major in **Industrial Management and Systems Engineering / Software Convergence**
->
-> 🔭 Currently finding a job. **In fact, now I'm a student :)**
+> 📙 Major in **Industrial Management and Systems Engineering / Software Convergence**
 >
 > 🌱 Currently learning **Machine Learning(ML) & Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)**
 >
 > 👯 Looking to collaborate on **OpenSource Projects**
 >
-> 👨‍💻 All of my projects are available at **[My Website](https://junnei.github.io)**, and Here is my **[CV]()**
+> 👨‍💻 More information about me >> **[My Website](https://junnei.github.io)**, and Here is my **[CV](https://github.com/junnei/Seongjun_Jang_CV/blob/main/Seongjun_Jang_CV.pdf)**
 >
 > 📫 How to reach me : **peinguin77@gmail.com**
 >
-> ⚡ Fun fact : **I love playing games and music.**
+> ⚡ Fun fact : **I love playing games🎮 and music🎹 **
 
 ## 🚀 Languages and Tools:
 
