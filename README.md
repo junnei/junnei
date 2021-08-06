@@ -27,7 +27,7 @@
 >
 > 📫 How to reach me : **peinguin77@gmail.com**
 >
-> ⚡ Fun fact : **I love playing games🎮 and music🎹 **
+> ⚡ Fun fact : **I love playing games🎮 and music🎹**
 
 ## 🚀 Languages and Tools:
 
