@@ -9,7 +9,7 @@
 
 ▫️ **Music Information Retrieval(MIR)[[Post]](https://junnei.github.io/blog/en/music-information-retrieval)** - Source seperation, Tempo estimation, Music generation
 
-▫️ ~~Computer Vision - Dynamic vision sensor(Event-based vision), Object Detection~~
+▫️ **Computer Vision - Dynamic vision sensor(Event-based vision), Object Detection**
 
 ## 🤷‍♂️ What I did
 
